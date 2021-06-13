@@ -91,7 +91,7 @@ export default function AddProduct () {
                   rows="2"
                   style={{ resize: "none" }}
                   name="description"
-                  {...register("email")}
+                  {...register("description")}
              
                 />
               </div>
